@@ -1,5 +1,7 @@
 # djangosqldb
 note:- feel free to add your design in it by clonning it.
+
+
 **Django SQL Database with Login, Logout, Account Creation, Photo Uploading, and Photo Fetching**
 
 **Overview**
